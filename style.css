@@ -1,0 +1,40 @@
+ p{
+    color: red;
+    font-size:25px;
+}
+.ts{
+    color:blue;
+}
+
+#ts1{
+    color:green;
+}
+div{
+
+border: 5px solid black;
+}
+h1{
+ text-align: center;
+} 
+ div{
+    padding: 10px;
+    border: 5px solid black;
+    height: 300px;
+    padding: 20px;
+
+
+
+
+ }
+ p{
+    font-size: 25px;
+ }
+ .ts20{
+   height: 150px;
+   text-align:center;
+   align-content: center;
+   padding: 10px;
+   padding: 15px;
+   border: 20px solid blueviolet;
+
+   background-color: yellowgreen;
